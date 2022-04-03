@@ -3,7 +3,7 @@ testpoly.py
 Illustrates the use of begin_poly, end_poly, and get_poly to
 create custom turtle shapes.
 """
-
+ 
 from turtle import *
 
 def regularPolygon(length, numSides):
